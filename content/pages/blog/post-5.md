@@ -1,5 +1,5 @@
 ---
-title: 6 Tips to Achieve Work Life Balance
+title: 7 Tips to Achieve Work Life Balance
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus.
 date: 2020-06-02
